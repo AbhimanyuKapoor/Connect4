@@ -1,0 +1,28 @@
+## Java ##
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+
+## IntelliJ ##
+.idea/
+.idea_modules/
+out/
+*.iml
+*.ipr
+*.iws
+
+## Eclipse ##
+.settings/
+bin/
+tmp/
+.metadata
+.classpath
+.project
+*.tmp
+*.bak
+*.swp
+
+## Log file ##
+*.log
